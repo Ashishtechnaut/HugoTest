@@ -6,6 +6,7 @@ theme = "hugo-theme-learn-master"
 
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
+publishDir = "ashishtechnaut.github.io"
 
 [params]
   editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
